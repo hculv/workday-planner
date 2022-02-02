@@ -6,7 +6,7 @@ Allows you to enter and save text within the calendar
 Colors are displayed based on the current hour of the day
 The current date is displayed at the top of the page
 
-Link to deployed application:https://hculv.github.io/workday-scheduler/
+Link to deployed application: https://hculv.github.io/workday-planner/
 
 Screenshot:
 
